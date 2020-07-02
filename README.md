@@ -6,3 +6,5 @@ If you have a Linux machine with root access, you can use prerequisites.sh by ca
 If you have a Linux machine without root access, you can use prerequisites-noroot.sh by calling "sh prerequisites-noroot.sh"
 
 Once you have installed GROMACS, you can follow along live time with the tutorial on Zoom, but you can also use the prepare-files.sh script to create the input files needed to run the simulation instead of creating the files manually step by step.
+
+
