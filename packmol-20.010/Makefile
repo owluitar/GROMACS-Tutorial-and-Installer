@@ -14,11 +14,11 @@
 # If you want to compile with some specific fortran compiler, you must 
 # change the line below to the path of your fortran compiler. 
 #
-FORTRAN=/usr/bin/gfortran
+FORTRAN=/usr/bin/x86_64-w64-mingw32-gfortran
 #
 # Change the flags of the compilation if you want:
 #
-FLAGS= -O3 --fast-math
+FLAGS= -O3 --fast-math --static
  
 ###################################################################
 #                                                                 #
